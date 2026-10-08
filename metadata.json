@@ -1,0 +1,6 @@
+{
+  "name": "Utkarsh Music",
+  "description": "Premium Apple Music styled music streaming and offline player with curated charts, radio stations, lyrics, and offline playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
